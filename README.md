@@ -1,7 +1,5 @@
 # MagaCoin API
 
-<img src="./docs/magalu.jpg" align="right" width="245">
-
 This application is responsible for provide wallet informations to MagaCoin clients and integrate to MagaCoin Payments API.
 
 ## Table of contents
