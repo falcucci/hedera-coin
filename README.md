@@ -4,7 +4,6 @@ This application is responsible for provide wallet informations to MagaCoin clie
 
 ## Table of contents
 
-- [MagaCoin API](#MagaCoin API)
 - [Table of contents](#Table-of-contents)
 - [Installing](#Installing)
 - [Environment Variables](#Environment-Variables)
