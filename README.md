@@ -1,6 +1,6 @@
-# MagaCoin API
+# HederaCoin API
 
-This application is responsible for provide wallet informations to MagaCoin clients and integrate to MagaCoin Payments API.
+This application is responsible for provide wallet informations to MagaCoin clients and integrate to HederaCoin Payments API.
 
 ## Table of contents
 
@@ -36,8 +36,8 @@ PRIVATE_KEY                   | string  | Hedere private key of current user acc
 TARGET_ACCOUNT                | integer | Hedera account ID which will receive the transfer ammount
 DATABASE_MAX_IDLE             | integer | Database max idle value
 DATABASE_IDLE_TIMEOUT         | integer | Database idle timeout value
-MAGACOIN_PAYMENT_URL          | integer | MagaCoin Payment URL
-MAGACOIN_PAYMENT_TIMEOUT      | integer | MagaCoin Payment Timeout
+HEDERACOIN_PAYMENT_URL          | integer | HederaCoin Payment URL
+HEDERACOIN_PAYMENT_TIMEOUT      | integer | HederaCoin Payment Timeout
 DATABASE_MAX_CON              | integer | Database max. connections
 ```
 
