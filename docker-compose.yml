@@ -1,0 +1,19 @@
+version: "3"
+services:
+  mysql:
+    container_name: maga-coin-api-mysql
+    image: mysql
+    ports:
+      - 3307:3306
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: maga-coin-api
+      MYSQL_USER: maga-coin-api
+      MYSQL_PASSWORD: maga-coin-api
+    restart: always
+    networks:
+      - maga-coin-api
+
+networks:
+  maga-coin-api:
+    driver: bridge
