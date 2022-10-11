@@ -1,6 +1,6 @@
 # HederaCoin API
 
-This application is responsible for provide wallet informations to MagaCoin clients and integrate to HederaCoin Payments API.
+This application is responsible for provide wallet informations to HederaCoin clients and integrate to HederaCoin Payments API.
 
 ## Table of contents
 
